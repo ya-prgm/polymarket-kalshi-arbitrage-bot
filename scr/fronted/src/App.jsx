@@ -127,7 +127,7 @@ const App = () => {
   const [config, setConfig] = useState({
     TOTAL_LIMIT: "5000", 
     BANKROLL: "1000",
-    DEEPSEEK_KEY: "sk-a1e7ff85f219420593f3a65767ecd216", 
+    DEEPSEEK_KEY: "", 
     AI_THRESHOLD: "0.63",
     POLY_SORT_BY: "volume24hr", 
     KALSHI_SORT_BY: "trending", 
