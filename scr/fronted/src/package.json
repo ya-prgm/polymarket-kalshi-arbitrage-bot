@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "apexcharts": "^5.10.4",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.7.0",
+    "react-apexcharts": "^2.1.0",
+    "tailwind-merge": "^3.5.0"
+  }
+}
