@@ -1,11 +1,13 @@
-# polymarket-kalshi-arbitrage-bot
-Dual-AI arbitrage scanner for Polymarket &amp; Kalshi prediction markets. Uses sentence-transformers for semantic matching + DeepSeek LLM for verification. Real-time profit calculation, async scraping, React dashboard with live updates. Finds semantic forks traditional scanners miss.
+# 🚀 Polymarket & Kalshi AI Arbitrage Scanner PRO (Dual-AI Engine) 2026
+# Telegram - @ya_prgm
 
 <img width="1881" height="841" alt="image" src="https://github.com/user-attachments/assets/5c67d89b-ffdd-4863-b02e-d5fffd9e4ffe" />
 
 
-# 🚀 Polymarket & Kalshi AI Arbitrage Scanner PRO (Dual-AI Engine)
-# Telegram - @ya_prgm
+<img width="1840" height="895" alt="image" src="https://github.com/user-attachments/assets/3b3c7f92-5215-4a22-9ec2-8a06c0d4c52a" />
+
+<img width="1851" height="913" alt="image" src="https://github.com/user-attachments/assets/32a5f8f9-3876-495c-b77f-832a0ff8cd41" />
+
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![React](https://img.shields.io/badge/react-18.0%2B-blue)
